@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">idleSlim</string>
+    <string name="title_activity_scene">Scene</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="default_web_client_id2">375517440176-6iqj3el6srlq819uk99c61l27oak6lkh.apps.googleusercontent.com</string>
+
+    <string name="facebook_app_id">5212699845415518</string>
+    <string name="fb_login_protocol_scheme">fb5212699845415518</string>
+
+
+</resources>
